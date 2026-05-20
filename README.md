@@ -146,7 +146,7 @@ grafcet-sfc-simulator/
 └── README.md
 ```
 
-### `grafcet_engine.py` — Moteur générique
+### `grafcet_engine.py` - Moteur générique
 
 Contient les classes fondamentales :
 
@@ -154,9 +154,9 @@ Contient les classes fondamentales :
 - **`Transition`** : Condition de franchissement, sources et destinations
 - **`GrafcetEngine`** : Moteur de scrutation (cycle scan), gestion I/O, historique
 
-Le moteur est **indépendant du procédé** : il peut être réutilisé pour n'importe quelle application GRAFCET (feu tricolore, remplissage de bouteilles, machine-outil...).
+Le moteur est **indépendant du procédé** : il peut être réutilisé pour n'importe quelle application GRAFCET (feu tricolore, remplissage de bouteilles, machine-outil).
 
-### `conveyor_process.py` — Procédé de tri
+### `conveyor_process.py` - Procédé de tri
 
 Instancie le Grafcet pour le convoyeur spécifique et simule les signaux capteurs selon l'étape active. Les délais de transport et les temporisations reproduisent un comportement réaliste.
 
@@ -232,7 +232,7 @@ for _ in range(10):
 
 L'exécution génère deux fenêtres matplotlib :
 
-**1. Schéma GRAFCET** — diagramme SFC annoté avec étapes, transitions et réceptivités.
+**1. Schéma GRAFCET** - diagramme SFC annoté avec étapes, transitions et réceptivités.
 
 **2. Résultats de simulation** :
 - **Timeline étapes** : diagramme de Gantt montrant l'activation de chaque étape
@@ -270,9 +270,9 @@ Ce projet est une base pour des développements plus avancés :
 
 ## Références
 
-- **NF EN 60848** — Langage de spécification GRAFCET pour diagrammes fonctionnels en séquence
-- **IEC 61131-3** — Langages de programmation pour automates programmables industriels
-- **Cours d'automatisme industriel** — IUT / BTS CRSA / GEII
+- **NF EN 60848** - Langage de spécification GRAFCET pour diagrammes fonctionnels en séquence
+- **IEC 61131-3** - Langages de programmation pour automates programmables industriels
+- **Cours d'automatisme industriel** - IUT / BTS CRSA / GEII
 - Michel, G. — *Grafcet : Outil de description des systèmes automatisés de production*, Dunod
 
 ---
