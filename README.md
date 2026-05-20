@@ -40,14 +40,14 @@ L'automate pilote l'ensemble selon un **programme séquentiel GRAFCET**, garanti
 
 ```
   ┌───────────────────────────────────────────────────────────────────┐
-  │                    CONVOYEUR DE TRI                                │
+  │                    CONVOYEUR DE TRI                               │
   │                                                                   │
-  │  [S1]──── M1 (convoyeur) ────[S2]── mesure ──[V1]──→ Sortie OK  │
+  │  [S1]──── M1 (convoyeur) ────[S2]── mesure ──[V1]──→ Sortie OK    │
   │   ↑         Entrée pièce      Station        Vérin conforme       │
-  │   │                           qualité                              │
-  │   │                              │                                 │
+  │   │                           qualité                             │
+  │   │                              │                                │
   │   │                             [S3] résultat                     │
-  │   │                              │                                 │
+  │   │                              │                                │
   │   │                             [V2]──→ Rebut                     │
   │   │                           Vérin éjecteur                      │
   └───────────────────────────────────────────────────────────────────┘
@@ -55,8 +55,8 @@ L'automate pilote l'ensemble selon un **programme séquentiel GRAFCET**, garanti
 
 ### Capteurs (entrées TOR)
 
-| Capteur | Type          | Rôle                                          |
-|---------|---------------|-----------------------------------------------|
+| Capteur | Type               | Rôle                                    |
+|---------|--------------------|-----------------------------------------|
 | S1      | Détecteur inductif | Présence pièce en entrée du convoyeur   |
 | S2      | Détecteur optique  | Pièce arrivée à la station de mesure    |
 | S3      | Capteur qualité    | Résultat du contrôle (1 = conforme)     |
