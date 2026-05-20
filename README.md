@@ -49,7 +49,7 @@ L'automate pilote l'ensemble selon un **programme séquentiel GRAFCET**, garanti
   │   │                             [S3] résultat                     │
   │   │                              │                                │
   │   │                             [V2]──→ Rebut                     │
-  │   │                           Vérin éjecteur                      │
+  │   │                             Vérin éjecteur                    │
   └───────────────────────────────────────────────────────────────────┘
 ```
 
