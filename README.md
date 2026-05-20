@@ -40,7 +40,7 @@ L'automate pilote l'ensemble selon un **programme séquentiel GRAFCET**, garanti
 
 ```
   ┌───────────────────────────────────────────────────────────────────┐
-  │                    CONVOYEUR DE TRI                               │
+  │                         CONVOYEUR DE TRI                          │
   │                                                                   │
   │  [S1]──── M1 (convoyeur) ────[S2]── mesure ──[V1]──→ Sortie OK    │
   │   ↑         Entrée pièce      Station        Vérin conforme       │
