@@ -280,7 +280,7 @@ Ce projet est une base pour des développements plus avancés :
 ## Auteur
 
 **Tomas SOUSA** — Étudiant en systèmes automatisés  
-[github.com/Toast-Cyberia](https://github.com/Toast-Cyberia) · [LinkedIn](https://www.linkedin.com/in/tomass-sousa/)
+[github.com/Toast-Cyberia](https://github.com/Toast-Cyberia) · [LinkedIn](https://www.linkedin.com/in/tomass-sousa)
 
 ---
 
