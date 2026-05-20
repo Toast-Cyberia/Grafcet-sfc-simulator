@@ -1,11 +1,11 @@
-# Grafcet SFC Simulator — Convoyeur de tri industriel
+# Grafcet SFC Simulator - Convoyeur de tri industriel
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Domain](https://img.shields.io/badge/domain-Industrial%20Automation-orange)
 ![Standard](https://img.shields.io/badge/standard-IEC%2061131--3-blueviolet)
 
-Simulation d'un **convoyeur de tri industriel** piloté par un moteur **GRAFCET** (Sequential Function Chart — SFC) implémenté en Python, conforme à la norme **IEC 61131-3**.
+Simulation d'un **convoyeur de tri industriel** piloté par un moteur **GRAFCET** (Sequential Function Chart - SFC) implémenté en Python, conforme à la norme **IEC 61131-3**.
 
 > **Objectif pédagogique :** ce projet démontre comment un automate programmable industriel (API) orchestre un procédé de tri selon une logique séquentielle GRAFCET. La simulation inclut capteurs, actionneurs et statistiques de production, avec une visualisation matplotlib.
 
