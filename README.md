@@ -1,4 +1,4 @@
-# Grafcet SFC Simulator - Convoyeur de tri industriel
+# Grafcet SFC Simulator - Convoyeur de tri industriel 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
