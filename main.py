@@ -1,4 +1,4 @@
-"""  
+""" 
 main.py
 =======
 Point d'entrée — Simulation Grafcet : Convoyeur de tri industriel
