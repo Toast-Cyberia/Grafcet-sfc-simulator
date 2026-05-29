@@ -1,4 +1,4 @@
-"""  
+"""
 grafcet_engine.py
 =================
 Moteur GRAFCET / SFC (Sequential Function Chart) — IEC 61131-3
