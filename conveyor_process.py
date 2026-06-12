@@ -1,4 +1,4 @@
-"""  
+"""
 conveyor_process.py
 ===================
 Simulation d'un convoyeur de tri industriel — modèle de procédé
